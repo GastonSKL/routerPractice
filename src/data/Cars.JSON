@@ -3,30 +3,55 @@
         "id": 1,
         "name": "Chevy",
         "price": 15000,
-        "year": 2015
+        "year": 2015,
+        "img" : "https://cdn.motor1.com/images/mgl/pb0A2Y/s3/7--serie-2-1978-con-opcionales.jpg",
+        "contact":{
+            "dealer": "keith",
+            "number": "2665148544"
+        }
     },
     {
         "id": 2,
         "name": "Ford",
         "price": 21000,
-        "year": 2019
+        "img": "https://infoclassiche.it/content/images/2022/10/ford_mustang_1969_Boss_429.jpg",
+        "year": 2019,
+        "contact":{
+            "dealer": "Jonh",
+            "number": "2664857444"
+        }
     },
     {
         "id": 3,
         "name": "Hiunday",
         "price": 32000,
-        "year": 2022
+        "year": 2022,
+        "img": "https://www.hyundai.com.ar/images/models/creta2020/creta2020-destacados-frente-perfil.jpg",
+        "contact":{
+            "dealer": "Fabian",
+            "number": "2622487445"
+        }
     },
     {
         "id": 4,
         "name": "Audi",
         "price": 18000,
-        "year": 2015
+        "year": 2015,
+        "img":"https://acroadtrip.blob.core.windows.net/catalogo-imagenes/s/RT_V_b3dafc91ad554f3a9763569f2084d0e3.webp",
+        "contact":{
+            "dealer": "Damian",
+            "number": "2664784123"
+        }
     },
     {
         "id": 5,
         "name": "Chevy",
         "price": 10000,
-        "year": 2011
+        "year": 2011,
+        "img": "https://hips.hearstapps.com/hmg-prod/images/2022-chevrolet-silverado-14-1631133451.jpg?crop=0.676xw:0.760xh;0.104xw,0.152xh&resize=640:*",
+        "contact":{
+            "dealer": "Joel",
+            "number": "2664741399"
+        }
     }
 ]

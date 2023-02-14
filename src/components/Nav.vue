@@ -6,7 +6,7 @@ import { RouterLink } from 'vue-router';
     <nav>
         <div class="container">
             <RouterLink active-class="active" to="/" class="link">Home</RouterLink>
-            <RouterLink active-class="active" to="/about" class="link">About</RouterLink>
+            
         </div>
     </nav>
 </template>
